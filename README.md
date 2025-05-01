@@ -54,7 +54,7 @@ ISCHEMIC_STROKE/
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.9
 - pip (Python package installer)
 
 ### Installation
